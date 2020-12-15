@@ -5,7 +5,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div>
+    <div style={{height: "100%"}}>
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
@@ -17,7 +17,7 @@ export default function Home() {
         gap={0}
         bg="#0f5788"
       >
-        <GridItem rowSpan={2} colSpan={2} >
+        <GridItem rowSpan={2} colSpan={3} >
           <Image
             src="/grandcast.png"
             alt="GRANDcast logo"
@@ -25,7 +25,7 @@ export default function Home() {
             width={866}
           />
         </GridItem>
-        <GridItem mt={4} colSpan={3}><Center>
+        <GridItem mt={4} colSpan={2}><Center>
           <Heading color="white">GRANDcast.FM</Heading></Center>
           <Center><Text color="white" fontSize="2xl">Episode 3: Parsing Podcast Feeds</Text></Center>
           
