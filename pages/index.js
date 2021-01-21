@@ -36,7 +36,7 @@ export default function Home() {
             </Center>
             <Center>
             <Text color="white" fontSize="3xl">
-            Setting Up Next.js &amp; GraphQL Authentication
+            Next.js &amp; GraphQL Auth
             </Text>
           </Center>
         </GridItem>
