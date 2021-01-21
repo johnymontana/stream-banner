@@ -31,12 +31,12 @@ export default function Home() {
           </Center>
           <Center>
             <Text color="white" fontSize="3xl" as="u">
-              Episode 3:
+              Episode 4:
             </Text>
             </Center>
             <Center>
             <Text color="white" fontSize="3xl">
-            Parsing Podcast Feeds With Neo4j
+            Setting Up Next.js &amp; GraphQL Authentication
             </Text>
           </Center>
         </GridItem>
