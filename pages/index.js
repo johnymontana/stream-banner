@@ -31,7 +31,7 @@ export default function Home() {
           </Center>
           <Center>
             <Text color="white" fontSize="3xl" as="u">
-              Episode 5:
+              Episode 6:
             </Text>
             </Center>
             <Center>
