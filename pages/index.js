@@ -31,12 +31,12 @@ export default function Home() {
           </Center>
           <Center>
             <Text color="white" fontSize="3xl" as="u">
-              Episode 6:
+              Episode 7:
             </Text>
             </Center>
             <Center>
             <Text color="white" fontSize="3xl">
-            Next.js, Chakra UI, &amp; Apollo Client
+            Migrating to the Official Neo4j GraphQL Library
             </Text>
           </Center>
         </GridItem>
