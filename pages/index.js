@@ -15,7 +15,7 @@ export default function Home() {
         templateRows="repeat(2, 1fr)"
         templateColumns="repeat(5, 1fr)"
         gap={0}
-        bg="#0f5788"
+        bg="#018bff"
       >
         <GridItem m={4} mt={5} rowSpan={2} colSpan={2}>
           <Image
