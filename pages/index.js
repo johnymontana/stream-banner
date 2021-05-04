@@ -36,7 +36,7 @@ export default function Home() {
             </Center>
             <Center>
             <Text color="white" fontSize="3xl">
-            Migrating to the Official Neo4j GraphQL Library
+            Using the Official Neo4j GraphQL Library
             </Text>
           </Center>
         </GridItem>
