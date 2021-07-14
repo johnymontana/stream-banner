@@ -27,7 +27,7 @@ export default function Home() {
         </GridItem>
         <GridItem mt={8} colSpan={3}>
           <Center>
-            <Heading color="white" size="2xl" mb={2}>No Cost Data Scraping</Heading>
+            <Heading color="white" size="xl" mb={2}>No Cost Data Scraping</Heading>
           </Center>
           <Center>
             <Text color="white" fontSize="3xl">
