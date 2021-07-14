@@ -1,9 +1,16 @@
 import "../styles/globals.css";
-import { ChakraProvider, CSSReset} from "@chakra-ui/react";
+import { extendTheme, ChakraProvider, CSSReset} from "@chakra-ui/react";
+
+const theme = extendTheme({
+  fonts: {
+    heading: "Nunito Sans",
+    body: "Nunito Sans"
+  }
+})
 
 function MyApp({ Component, pageProps }) {
   return (
-    <ChakraProvider>
+    <ChakraProvider theme={theme}>
       <CSSReset />
       <Component {...pageProps} />
     </ChakraProvider>

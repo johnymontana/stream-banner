@@ -17,14 +17,14 @@ export default function Home() {
         gap={0}
         bg="#018bff"
       >
-//         <GridItem m={4} mt={5} rowSpan={2} colSpan={2}>
-//           <Image
-//             src="/flat-graph.png"
-//             alt="Stream Logo"
-//             height={1080}
-//             width={1920}
-//           />
-//         </GridItem>
+         {/* <GridItem m={4} mt={5} rowSpan={2} colSpan={2}>
+           <Image
+             src="/flat-graph.png"
+             alt="Stream Logo"
+             height={1080}
+             width={1920}
+           />
+         </GridItem> */}
         <GridItem mt={8} colSpan={5} rowSpan={2}>
           <Center>
             <Heading color="white" size="3xl" mb={2}>No Cost Data Scraping</Heading>
