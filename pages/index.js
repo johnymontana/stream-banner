@@ -21,8 +21,8 @@ export default function Home() {
           <Image
             src="/flat-graph.png"
             alt="Stream Logo"
-            height={500}
-            width={600}
+            height={1080}
+            width={1920}
           />
         </GridItem>
         <GridItem mt={8} colSpan={3}>
