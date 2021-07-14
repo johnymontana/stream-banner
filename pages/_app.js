@@ -1,4 +1,7 @@
 import "../styles/globals.css";
+import "@fontsource/nunito-sans/700.css"
+import "@fontsource/nunito-sans/400.css"
+
 import { extendTheme, ChakraProvider, CSSReset} from "@chakra-ui/react";
 
 const theme = extendTheme({
