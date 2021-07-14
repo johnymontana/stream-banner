@@ -19,26 +19,21 @@ export default function Home() {
       >
         <GridItem m={4} mt={5} rowSpan={2} colSpan={2}>
           <Image
-            src="/grandcastlogo.png"
-            alt="GRANDcast logo"
+            src="/flat-graph.png"
+            alt="Stream Logo"
             height={500}
             width={600}
           />
         </GridItem>
         <GridItem mt={8} colSpan={3}>
           <Center>
-            <Heading color="white" size="3xl" mb={2}>GRANDcast.FM</Heading>
+            <Heading color="white" size="3xl" mb={2}>No Cost Data Scraping</Heading>
           </Center>
           <Center>
-            <Text color="white" fontSize="3xl" as="u">
-              Episode 7:
+            <Text color="white" fontSize="3xl">
+              With GitHub Actions & Neo4j Aura
             </Text>
             </Center>
-            <Center>
-            <Text color="white" fontSize="3xl">
-            The Official Neo4j GraphQL Library
-            </Text>
-          </Center>
         </GridItem>
       </Grid>
     </div>
