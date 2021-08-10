@@ -27,11 +27,11 @@ export default function Home() {
          </GridItem> */}
         <GridItem mt={8} colSpan={5} rowSpan={2}>
           <Center>
-            <Heading color="white" size="3xl" mb={2}>Next.js GraphQL Server</Heading>
+            <Heading color="white" size="3xl" mb={2}>Neo4j GraphQL Library</Heading>
           </Center>
           <Center>
             <Text color="white" fontSize="3xl">
-              With Neo4j Aura & Vercel
+              Hands On With The 2.0 Release & Neo4j Aura
             </Text>
             </Center>
         </GridItem>
