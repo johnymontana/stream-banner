@@ -27,11 +27,11 @@ export default function Home() {
          </GridItem> */}
         <GridItem mt={8} colSpan={5} rowSpan={2}>
           <Center>
-            <Heading color="white" size="3xl" mb={2}>Graph Data Visualization</Heading>
+            <Heading color="white" size="3xl" mb={2}>The Neo4j GraphQL Library</Heading>
           </Center>
           <Center>
             <Text color="white" fontSize="3xl">
-              With GraphQL & react-force-graph
+              And Neo4j AuraDB Free
             </Text>
             </Center>
         </GridItem>
